@@ -8,7 +8,7 @@ Some simple helpers for Greasemonkey which automatically copies a NeoGAF-formatt
 
 ## How-to use
 1. Download [GreaseMonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) (Firefox)
-2. Open [this link](https://github.com/petetnt/neogaf-monkeybot/raw/master/neogaf-monkeybot.user.js). *Monkey should prompt you for install.
+2. Open [this link](https://github.com/woctezuma/steam-to-neogaf/raw/master/steam-to-neogaf.user.js). *Monkey should prompt you for install.
 3. Navigate to [Steam](http://store.steampowered.com/app/393520/Iconoclasts/)
 4. Navigate to [NeoGAF](http://neogaf.com/forum)
 5. Paste the content of your clipboard in a post form.
