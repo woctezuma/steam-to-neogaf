@@ -1,6 +1,6 @@
 # Steam-to-NeoGAF
 
-Some simple helpers for Greasemonkey which automatically copies a NeoGAF-formatted post while browsing the Steam store.
+A simple helper for Greasemonkey which automatically copies a NeoGAF-formatted post while browsing the Steam store.
 
 ## Features
 - Replaces the content of your clipboard
